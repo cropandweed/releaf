@@ -1,0 +1,10 @@
+models/
+output/
+results/
+data/
+
+*.pt
+*.pyc
+
+.venv/
+.vscode/

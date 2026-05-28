@@ -1,0 +1,14 @@
+# Core dependencies
+torch
+torchvision
+numpy
+opencv-python
+Pillow
+PyYAML
+tqdm
+pycocotools
+supervision
+
+# Model/framework dependencies
+ultralytics
+rfdetr>=1.7.0rc0
